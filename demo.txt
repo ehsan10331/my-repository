@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a git repository
 this is done by dev 2
 this is done by me only
@@ -7,3 +8,10 @@ here are some school list to contact
 1.st.clares
 2.high school koderma
 3.high school domchanch
+=======
+student lists
+saddam afridi
+aslam perwez
+ehsan ali
+manoj jha
+>>>>>>> student-list
