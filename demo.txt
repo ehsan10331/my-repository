@@ -1,19 +1,5 @@
-this is a git repository
-this is done by dev 2
-this is done by me only
-
-
-
-
-
-
-
-
-
-student list
-1.ehsan ali
-2.saddam afridi
-3.manoj jha
-4.aslam perwez
-this is the final list
-this is final commit
+student lists
+saddam afridi
+aslam perwez
+ehsan ali
+manoj jha
